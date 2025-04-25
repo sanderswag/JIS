@@ -21,10 +21,10 @@ const Hero: React.FC = () => {
       }}
     >
       <div className="absolute inset-0 z-0 overflow-hidden">
-        <div className="blur-load absolute inset-0" style={{ backgroundImage: 'url(/public/lovable-uploads/d7e36423-47f7-47bd-9054-05235064948b.png)' }}>
+        <div className="blur-load absolute inset-0" style={{ backgroundImage: 'url(lovable-uploads/d7e36423-47f7-47bd-9054-05235064948b.png)' }}>
           <img 
             ref={imgRef}
-            src="/public/lovable-uploads/d7e36423-47f7-47bd-9054-05235064948b.png" 
+            src="lovable-uploads/d7e36423-47f7-47bd-9054-05235064948b.png" 
             alt="Jesus i Sentrum Logo" 
             className="absolute inset-0 w-full h-full object-cover opacity-20"
           />
@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
         <div className="flex flex-col items-center justify-center text-center space-y-8">
           <div className="w-full max-w-md mx-auto animate-float mb-6">
             <img 
-              src="/public/lovable-uploads/d7e36423-47f7-47bd-9054-05235064948b.png" 
+              src="lovable-uploads/d7e36423-47f7-47bd-9054-05235064948b.png" 
               alt="Jesus i Sentrum Logo" 
               className="w-full h-auto"
             />
