@@ -47,7 +47,7 @@ const Program: React.FC = () => {
   const programItems = [
     {
       time: "15:00",
-      title: "Opplegg for barn med Kari Kvante",
+      title: "Opplegg for barn",
       description: "Morsomme aktiviteter og engasjerende opplevelser for de yngste deltakerne."
     },
     {
@@ -58,7 +58,7 @@ const Program: React.FC = () => {
     {
       time: "17:30",
       title: "Gudstjeneste med lovsangskonsert",
-      description: "Med Sunniva Gylver (biskop), Thor Haavik (prest), Thomas & Karoline Neteland, Levi Bergerud og Konrad Lunde."
+      description: "Med Thor Haavik (prest), Thomas & Karoline Neteland, Lewi Bergerud og Konrad Lunde."
     }
   ];
   
